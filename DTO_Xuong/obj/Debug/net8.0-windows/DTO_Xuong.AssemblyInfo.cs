@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DTO_Xuong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcbc2d4ad6fa67e703e8d1d1624d557a027a04cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+762bef1662d41aaaca09e6a26d9683b35b3202e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DTO_Xuong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DTO_Xuong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

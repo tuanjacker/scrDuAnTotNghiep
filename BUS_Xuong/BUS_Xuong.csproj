@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CopilotDev.NET.Api" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\DAL_Xuong\DAL_Xuong.csproj" />
     <ProjectReference Include="..\DTO_Xuong\DTO_Xuong.csproj" />
   </ItemGroup>

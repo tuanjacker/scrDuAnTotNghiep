@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vomq53PiQIU=",
+  "dgSpecHash": "ut1WgaZqImQ=",
   "success": true,
-  "projectFilePath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj",
+  "projectFilePath": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DAL_Xuong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\ANH TUAN\\.nuget\\packages\\copilotdev.net.api\\1.1.0\\copilotdev.net.api.1.1.0.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\microsoft.data.sqlclient\\6.0.2\\microsoft.data.sqlclient.6.0.2.nupkg.sha512",

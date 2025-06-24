@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8hOPbaTDtdc=",
+  "dgSpecHash": "i8JBd1HCxxI=",
   "success": true,
-  "projectFilePath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANH TUAN\\.nuget\\packages\\copilotdev.net.api\\1.1.0\\copilotdev.net.api.1.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

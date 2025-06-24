@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F68lOlPfGSo=",
+  "dgSpecHash": "OZ+ir12eG58=",
   "success": true,
-  "projectFilePath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
+  "projectFilePath": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\ANH TUAN\\.nuget\\packages\\copilotdev.net.api\\1.1.0\\copilotdev.net.api.1.1.0.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ANH TUAN\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",

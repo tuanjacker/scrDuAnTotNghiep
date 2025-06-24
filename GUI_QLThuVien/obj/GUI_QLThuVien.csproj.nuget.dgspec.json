@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj": {}
+    "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\GUI_QLThuVien.csproj": {}
   },
   "projects": {
-    "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj": {
+    "D:\\git\\scrDuAnTotNghiep\\BUS_Xuong\\BUS_Xuong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj",
+        "projectUniqueName": "D:\\git\\scrDuAnTotNghiep\\BUS_Xuong\\BUS_Xuong.csproj",
         "projectName": "BUS_Xuong",
-        "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj",
+        "projectPath": "D:\\git\\scrDuAnTotNghiep\\BUS_Xuong\\BUS_Xuong.csproj",
         "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\BUS_Xuong\\obj\\",
+        "outputPath": "D:\\git\\scrDuAnTotNghiep\\BUS_Xuong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj": {
-                "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj"
+              "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DAL_Xuong.csproj": {
+                "projectPath": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DAL_Xuong.csproj"
               },
-              "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
-                "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj"
+              "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj": {
+                "projectPath": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj"
               }
             }
           }
@@ -56,6 +56,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CopilotDev.NET.Api": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -79,14 +85,14 @@
         }
       }
     },
-    "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj": {
+    "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DAL_Xuong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj",
+        "projectUniqueName": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DAL_Xuong.csproj",
         "projectName": "DAL_Xuong",
-        "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\DAL_Xuong.csproj",
+        "projectPath": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DAL_Xuong.csproj",
         "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DAL_Xuong\\obj\\",
+        "outputPath": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,8 +113,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
-                "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj"
+              "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj": {
+                "projectPath": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj"
               }
             }
           }
@@ -129,6 +135,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "CopilotDev.NET.Api": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.2, )"
@@ -157,14 +167,14 @@
         }
       }
     },
-    "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
+    "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj",
+        "projectUniqueName": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj",
         "projectName": "DTO_Xuong",
-        "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj",
+        "projectPath": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj",
         "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\obj\\",
+        "outputPath": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,6 +212,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CopilotDev.NET.Api": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -225,14 +241,14 @@
         }
       }
     },
-    "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj": {
+    "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\GUI_QLThuVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
+        "projectUniqueName": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
         "projectName": "GUI_QLThuVien",
-        "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
+        "projectPath": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\GUI_QLThuVien.csproj",
         "packagesPath": "C:\\Users\\ANH TUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\GUI_QLThuVien\\obj\\",
+        "outputPath": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -253,11 +269,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj": {
-                "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\BUS_Xuong\\BUS_Xuong.csproj"
+              "D:\\git\\scrDuAnTotNghiep\\BUS_Xuong\\BUS_Xuong.csproj": {
+                "projectPath": "D:\\git\\scrDuAnTotNghiep\\BUS_Xuong\\BUS_Xuong.csproj"
               },
-              "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj": {
-                "projectPath": "D:\\Xuong_ThuVien (1)\\Xuong_ThuVien\\Xuong_QuanLyThuVien\\Source\\Xuong_QLTV\\DTO_Xuong\\DTO_Xuong.csproj"
+              "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj": {
+                "projectPath": "D:\\git\\scrDuAnTotNghiep\\DTO_Xuong\\DTO_Xuong.csproj"
               }
             }
           }
@@ -278,6 +294,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "CopilotDev.NET.Api": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Guna.UI2.WinForms": {
               "target": "Package",
               "version": "[2.0.4.6, )"
