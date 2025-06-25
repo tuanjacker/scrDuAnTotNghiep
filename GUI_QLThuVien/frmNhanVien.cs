@@ -341,6 +341,7 @@ namespace GUI_QLThuVien
         private void btnXoa_Click(object sender, EventArgs e)
         {
             Close();
+            Close();
         }
     }
 }
