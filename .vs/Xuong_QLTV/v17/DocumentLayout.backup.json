@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\git\\scrDuAnTotNghiep\\",
+  "WorkspaceRootPath": "D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|d:\\git\\scrduantotnghiep\\dal_xuong\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|d:\\dam-bookshop\\scrduantotnghiep\\dal_xuong\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{916C0252-4B23-4044-B466-C65DC0C0FAD9}|DAL_Xuong\\DAL_Xuong.csproj|solutionrelative:dal_xuong\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\git\\scrduantotnghiep\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\dam-bookshop\\scrduantotnghiep\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|d:\\git\\scrduantotnghiep\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67115893-5CA2-4B27-AE27-5216DEB088DE}|GUI_QLThuVien\\GUI_QLThuVien.csproj|solutionrelative:gui_qlthuvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,21 +22,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DBUtil.cs",
-              "DocumentMoniker": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DBUtil.cs",
+              "DocumentMoniker": "D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\DAL_Xuong\\DBUtil.cs",
               "RelativeDocumentMoniker": "DAL_Xuong\\DBUtil.cs",
-              "ToolTip": "D:\\git\\scrDuAnTotNghiep\\DAL_Xuong\\DBUtil.cs",
-              "RelativeToolTip": "DAL_Xuong\\DBUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\DAL_Xuong\\DBUtil.cs*",
+              "RelativeToolTip": "DAL_Xuong\\DBUtil.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAACrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T08:24:14.318Z",
               "EditorCaption": ""
@@ -45,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmLogin.cs",
-              "DocumentMoniker": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs",
+              "DocumentMoniker": "D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs",
               "RelativeDocumentMoniker": "GUI_QLThuVien\\frmLogin.cs",
-              "ToolTip": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs",
+              "ToolTip": "D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs",
               "RelativeToolTip": "GUI_QLThuVien\\frmLogin.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAlwCwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,23 +62,12 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs",
+              "DocumentMoniker": "D:\\DAM-BOOKSHOP\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs",
               "RelativeDocumentMoniker": "GUI_QLThuVien\\frmLogin.cs",
               "ToolTip": "D:\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs [Design]",
-              "RelativeToolTip": "GUI_QLThuVien\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\git\\scrDuAnTotNghiep\\GUI_QLThuVien\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:23:21.788Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 194,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2025-06-25T08:23:21.788Z"
             }
           ]
         }

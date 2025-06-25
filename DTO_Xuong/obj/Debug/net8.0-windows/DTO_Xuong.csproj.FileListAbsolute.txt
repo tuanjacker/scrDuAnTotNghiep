@@ -23,3 +23,16 @@ D:\git\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.dll
 D:\git\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\refint\DTO_Xuong.dll
 D:\git\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.pdb
 D:\git\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\ref\DTO_Xuong.dll
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.deps.json
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.dll
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\bin\Debug\net8.0-windows\DTO_Xuong.pdb
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.csproj.AssemblyReference.cache
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.AssemblyInfoInputs.cache
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.AssemblyInfo.cs
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.csproj.CoreCompileInputs.cache
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.sourcelink.json
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.dll
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\refint\DTO_Xuong.dll
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\DTO_Xuong.pdb
+D:\DAM-BOOKSHOP\scrDuAnTotNghiep\DTO_Xuong\obj\Debug\net8.0-windows\ref\DTO_Xuong.dll

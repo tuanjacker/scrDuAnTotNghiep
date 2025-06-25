@@ -337,5 +337,10 @@ namespace GUI_QLThuVien
             ClearForm();
             LoadDanhSachNhanVien();
         }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
