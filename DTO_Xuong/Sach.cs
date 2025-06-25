@@ -15,7 +15,7 @@ namespace DTO_Xuong
         public string NhaXuatBan { get; set; }
         public int SoLuongTon { get; set; }
         public bool TrangThai { get; set; }
-         
+        public bool HinhAnh { get; set; } 
         public DateTime NgayTao { get; set; }
     }
 }

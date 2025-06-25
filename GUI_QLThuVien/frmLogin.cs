@@ -29,9 +29,9 @@ namespace GUI_QLThuVien
         {
             string username = txtUserName.Text;
             string password = txtPassword.Text;
-            NhanVien nv = busNhanVien.DangNhap("hoa.nguyen@thuviendhtp.vn", "123456");
+            //NhanVien nv = busNhanVien.DangNhap("hoa.nguyen@thuviendhtp.vn", "123456");
             //NhanVien nv = BUSNhanVien.DangNhap("hung.pham@gmail.vn", "hashed_hung789");
-            //NhanVien nv = BUSNhanVien.DangNhap(username, password);
+            NhanVien nv = busNhanVien.DangNhap(username, password);
             if (nv == null)
             {
                 MessageBox.Show(this, "Tài khoản hoặc mật khẩu không chính xác");

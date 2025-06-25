@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BUS_Xuong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+762bef1662d41aaaca09e6a26d9683b35b3202e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db582e3626ab42283419542b1540be5ff25a5251")]
 [assembly: System.Reflection.AssemblyProductAttribute("BUS_Xuong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BUS_Xuong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

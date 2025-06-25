@@ -9,6 +9,7 @@
       "GUI_QLThuVien/1.0.0": {
         "dependencies": {
           "BUS_Xuong": "1.0.0",
+          "CopilotDev.NET.Api": "1.1.0",
           "DTO_Xuong": "1.0.0",
           "Guna.UI2.WinForms": "2.0.4.6"
         },
@@ -48,6 +49,14 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.11.4.0",
             "fileVersion": "1.1100.424.31005"
+          }
+        }
+      },
+      "CopilotDev.NET.Api/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/CopilotDev.NET.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -446,6 +455,7 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "BUS_Xuong/1.0.0": {
         "dependencies": {
+          "CopilotDev.NET.Api": "1.1.0",
           "DAL_Xuong": "1.0.0",
           "DTO_Xuong": "1.0.0"
         },
@@ -458,6 +468,7 @@
       },
       "DAL_Xuong/1.0.0": {
         "dependencies": {
+          "CopilotDev.NET.Api": "1.1.0",
           "DTO_Xuong": "1.0.0",
           "Microsoft.Data.SqlClient": "6.0.2"
         },
@@ -469,6 +480,9 @@
         }
       },
       "DTO_Xuong/1.0.0": {
+        "dependencies": {
+          "CopilotDev.NET.Api": "1.1.0"
+        },
         "runtime": {
           "DTO_Xuong.dll": {
             "assemblyVersion": "1.0.0",
@@ -497,6 +511,13 @@
       "sha512": "sha512-Sf4BoE6Q3jTgFkgBkx7qztYOFELBCo+wQgpYDwal/qJ1unBH73ywPztIJKXBXORRzAeNijsuxhk94h0TIMvfYg==",
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
+    },
+    "CopilotDev.NET.Api/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XAgEAEdJSqh9Ysy2dHFHeHxVgVt5ua74Vf5n4pOMkXvtnPQbmc7bLhOzEJa8b904PAfQzGsDUN2PqWS2l0HY3g==",
+      "path": "copilotdev.net.api/1.1.0",
+      "hashPath": "copilotdev.net.api.1.1.0.nupkg.sha512"
     },
     "Guna.UI2.WinForms/2.0.4.6": {
       "type": "package",
